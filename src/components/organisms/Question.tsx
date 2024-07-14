@@ -4,6 +4,8 @@ import { Customar } from "../molecules/Customar";
 import Infomation from "../molecules/Infomation";
 import { Form } from "./Form";
 
+// 法律事務所のチャット処理
+
 export const Question = () => {
   const [talk, setTalk] = useState("");
   const [talkYear, setTalkYear] = useState("");

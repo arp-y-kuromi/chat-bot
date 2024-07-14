@@ -1,6 +1,8 @@
-interface CustomarProps {
+// ユーザー側のトーク
+
+type CustomarProps = {
   talk: string;
-}
+};
 
 export const Customar = ({ talk }: CustomarProps) => {
   return (

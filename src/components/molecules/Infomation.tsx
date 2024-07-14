@@ -2,6 +2,8 @@ import React from "react";
 import lawyer from "../atoms/image/lawyer.png";
 import PersonSharpIcon from "@mui/icons-material/PersonSharp";
 
+// 法律事務所側のアイコンとトーク
+
 interface InfomationProps {
   talk: string;
   officeName: string;

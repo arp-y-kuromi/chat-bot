@@ -1,4 +1,4 @@
-import React from "react";
+// ヘッダータイトル部分
 
 interface HeaderProps {
   title: string;

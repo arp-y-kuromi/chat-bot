@@ -1,6 +1,8 @@
 import { useState } from "react";
 import Infomation from "../molecules/Infomation";
 
+// 入力フォームの処理
+
 type Status = {
   repaymentStatus: string;
   loanTerm: string;
