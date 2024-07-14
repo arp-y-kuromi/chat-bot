@@ -1,4 +1,4 @@
-// 返済期間や、返済状況などの選択ボタン
+// 返済期間や、返済状況などのボタン
 type Props = {
   name: string;
   onClick?: () => void;
